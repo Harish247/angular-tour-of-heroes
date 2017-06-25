@@ -1,0 +1,6 @@
+#------------direcotories
+node_modules
+src/app/*.js
+src/app/*.js.map
+main.js
+main.js.map
